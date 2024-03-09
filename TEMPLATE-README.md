@@ -16,6 +16,8 @@ Where was the data sourced from?
 
 ### Questions Asked
 
+### Findings
+
 ### Techniques
 - **Column Type Conversion:** replace text
 - **Data Cleaning:** replace text
