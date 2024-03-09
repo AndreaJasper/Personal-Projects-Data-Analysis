@@ -17,15 +17,8 @@ Where was the data sourced from?
 ### Questions Asked
 
 ### Techniques
-
-#### Data Prep
- - clearning, removing missing values, removing incomplete values
-
-#### Data Manipulations
-- converting to different data types, creating new features
-
-#### Complex Techniques
-- machine learning, high-dimensional tranformation
-
-#### Data Analytics
-- discriptinve or diagnostic
+- **Column Type Conversion:** replace text
+- **Data Cleaning:** replace text
+- **Feature Engineering:** replace text
+- **Agregation and Grouping:** replace text
+- **Visualization Preparation:** replace text
