@@ -72,6 +72,7 @@ books['duration_to_finish_in_days'] = (books['end_date'] - books['start_date']).
 
 # calculate the average duracton to finish books for each genre
 avg_duration_by_genre = books.groupby('genre')['duration_to_finish_in_days'].mean()
+print(avg_duration_by_genre)
 
 plt.bar(avg_duration_by_genre.index, avg_duration_by_genre)
 plt.title('Average Time Taken to Finish Books by Genre')
